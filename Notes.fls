@@ -1,41 +1,43 @@
-PWD w:/Work/Documents/GEOF_UiB
-INPUT c:/Program Files/texlive/2020/texmf.cnf
-INPUT c:/Program Files/texlive/2020/texmf-dist/web2c/texmf.cnf
-INPUT c:/Program Files/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT w:/Work/Documents/GEOF_UiB/Notes.tex
-OUTPUT w:/Work/Documents/GEOF_UiB/Notes.log
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/size10.clo
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/size10.clo
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/size10.clo
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/base/size10.clo
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT w:/Work/Documents/GEOF_UiB/Notes.aux
-INPUT w:/Work/Documents/GEOF_UiB/Notes.aux
-INPUT w:/Work/Documents/GEOF_UiB/Notes.aux
-OUTPUT w:/Work/Documents/GEOF_UiB/Notes.aux
-INPUT c:/Program Files/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT c:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-OUTPUT w:/Work/Documents/GEOF_UiB/Notes.pdf
-INPUT c:/Program Files/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT w:/Work/Documents/GEOF_UiB/Notes.aux
-INPUT c:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-INPUT c:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+PWD /Users/Julien-Pooya/Documents/GitHub/GEOF_UiB
+INPUT /usr/local/texlive/2022/texmf.cnf
+INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/Julien-Pooya/Documents/GitHub/GEOF_UiB/Notes.tex
+OUTPUT Notes.log
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./Notes.aux
+INPUT Notes.aux
+INPUT Notes.aux
+OUTPUT Notes.aux
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT Notes.pdf
+INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT Notes.aux
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
