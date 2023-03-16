@@ -1,1 +1,0 @@
-Hi and welcome to the first textfile of the GEOF_UiB repository!
