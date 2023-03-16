@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1678283756 "/Users/Julien-Pooya/Documents/GitHub/GEOF_UiB/Get_started/Notes.tex" "Notes.pdf" "Notes" 1678283756
-  "/Users/Julien-Pooya/Documents/GitHub/GEOF_UiB/Get_started/Notes.tex" 1678283756 1133 ce0f97f4899084b8adb1905f4043ff37 ""
+["pdflatex"] 1678931528 "/Users/Julien-Pooya/Documents/GitHub/GEOF_UiB/Get_started/Notes.tex" "Notes.pdf" "Notes" 1678931529
+  "/Users/Julien-Pooya/Documents/GitHub/GEOF_UiB/Get_started/Notes.tex" 1678931528 2387 61be727355564f6fada2b7871ad9a1f5 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -13,8 +13,8 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1659093313 2826440 e4378401f3c39bd017182be07a022548 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "Notes.aux" 1678283756 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Notes.tex" 1678283756 1133 ce0f97f4899084b8adb1905f4043ff37 ""
+  "Notes.aux" 1678931529 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "Notes.tex" 1678931528 2387 61be727355564f6fada2b7871ad9a1f5 ""
   (generated)
   "Notes.aux"
   "Notes.log"
