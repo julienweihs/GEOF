@@ -38,15 +38,14 @@ flowchart TB
 
     GEOF220 --> GEOF311 & GEOF321 & GEOF322
 
-    GEOF323 --> GEOF322
-
-    GEOF311 --> GEOF321 & GEOF322
+    GEOF232 --> GEOF322
 
     GEOF310 --> GEOF321 & GEOF322
 
+    GEOF311 --> GEOF321 & GEOF322
+
     INF100 ---> PROG
 
-    PROG ==> GEOF211 & GEOF212 & GEOF210 & GEOF110 & GEOF105 & GEOF346 & GEOF321
 
 
     %% MAT111 --> GEOF100 & MAT112 & MAT121 & GEOF105 & MAT131 & GEOF220
@@ -60,56 +59,61 @@ flowchart TB
     %% PHYS111 --> GEOF105 & PHYS113 & GEOF110 & GEOF220
     %% STAT110 --> GEOF210
     %%%%%%%%
+    subgraph GEOF courses
+        direction TB
 
-    subgraph 1st semester
-    MAT111
-    INF100
-    GEOF100
-    end
-    
-    subgraph 2nd semester
-    MAT112
-    MAT121
-    PHYS111
-    end
-    
-    subgraph 3rd semester
-    MAT212
-    GEOF105
-    PHYS113-- or ---STAT110-- or ---KJEM110 
-    KJEM110-- or ---PHYS113
-    end
-    
-    subgraph 4th semester
-    GEOF110
-    MAT131
-    EXPHIL-MNSEM
-    end
-    
-    subgraph 5th semester
-    GEOF210
-    GEOF212
-    GEOF213-- or ---GEOF236
-    end
-    
-    subgraph 6th semester
-    GEOF220
-    GEOF211
-    GEOF232
-    end
+        PROG ==> GEOF211 & GEOF212 & GEOF210 & GEOF110 & GEOF105 & GEOF346 & GEOF321
 
-    subgraph Master
-    GEOF310
-    GEOF311
-    GEOF321
-    GEOF322
-    GEOF336
-    GEOF337
-    GEOF339
-    GEOF346
-    GEOF347
-    GEOF348
-    GEOF351
-    GEOF352
+        subgraph 1st semester
+        MAT111
+        INF100
+        GEOF100
+        end
+        
+        subgraph 2nd semester
+        MAT112
+        MAT121
+        PHYS111
+        end
+        
+        subgraph 3rd semester
+        MAT212
+        GEOF105
+        PHYS113-- or ---STAT110-- or ---KJEM110 
+        KJEM110-- or ---PHYS113
+        end
+        
+        subgraph 4th semester
+        GEOF110
+        MAT131
+        EXPHIL-MNSEM
+        end
+        
+        subgraph 5th semester
+        GEOF210
+        GEOF212
+        GEOF213-- or ---GEOF236
+        end
+        
+        subgraph 6th semester
+        GEOF220
+        GEOF211
+        GEOF232
+        end
+
+        subgraph Master
+        GEOF310
+        GEOF311
+        GEOF321
+        GEOF322
+        GEOF336
+        GEOF337
+        GEOF339
+        GEOF346
+        GEOF347
+        GEOF348
+        GEOF351
+        GEOF352
+        end
     end
 ```
