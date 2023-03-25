@@ -59,6 +59,7 @@ flowchart TB
     %% PHYS111 --> GEOF105 & PHYS113 & GEOF110 & GEOF220
     %% STAT110 --> GEOF210
     %%%%%%%%
+
     subgraph GEOF courses
         direction TB
 
@@ -79,8 +80,8 @@ flowchart TB
         subgraph 3rd semester
         MAT212
         GEOF105
-        PHYS113-- or ---STAT110-- or ---KJEM110 
-        KJEM110-- or ---PHYS113
+        PHYS113 --- |or| STAT110 --- |or| KJEM110 
+        KJEM110 --- |or| PHYS113
         end
         
         subgraph 4th semester
@@ -92,7 +93,7 @@ flowchart TB
         subgraph 5th semester
         GEOF210
         GEOF212
-        GEOF213-- or ---GEOF236
+        GEOF213 --- |or| GEOF236
         end
         
         subgraph 6th semester
