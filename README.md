@@ -22,7 +22,9 @@ flowchart
     
     Ca>Camille]
     
-    Il>Ilker]
+    Il>Ilker] -.- GEOF310
+    
+    Jo>Joachim] -.- GEOF310
 
     PROG{Programming}
 
