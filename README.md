@@ -4,27 +4,27 @@
 ``` mermaid
 flowchart
     
-    Kj>Kjersti] -.- GEOF105
-    Kj -.- GEOF232
+    %%Kj>Kjersti] -.- GEOF105
+    %%Kj -.- GEOF232
     
-    He>Helge] -.- GEOF110
-    He -.- GEOF346
+    %%He>Helge] -.- GEOF110
+    %%He -.- GEOF346
 
-    LaHe>Lars Henrik] -.- GEOF100
+    %%LaHe>Lars Henrik] -.- GEOF100
     
-    HaCh>Hans Christian] -.- GEOF105
+    %%HaCh>Hans Christian] -.- GEOF105
     
-    As>Asgeir] -.- GEOF100
+    %%As>Asgeir] -.- GEOF100
     
-    Th>Thomas]
+    %%Th>Thomas]
     
-    Le>Lea]
+    %%Le>Lea]
     
-    Ca>Camille]
+    %%Ca>Camille]
     
-    Il>Ilker] -.- GEOF310
+    %%Il>Ilker] -.- GEOF310
     
-    Jo>Joachim] -.- GEOF310
+    %%Jo>Joachim] -.- GEOF310
 
     PROG{Programming}
 
@@ -58,7 +58,7 @@ flowchart
 
     GEOF352 --> GEOF348
 
-    INF100 ---> PROG
+    INF100([INF100]) ---> PROG
 
 
 
@@ -78,29 +78,29 @@ flowchart
     direction TB
 
     subgraph 1st semester
-        MAT111
+        MAT111id([MAT111])
         INF100
         GEOF100
     end
 
     subgraph 2nd semester
         direction TB
-        MAT112
-        MAT121
-        PHYS111
+        MAT112([MAT112])
+        MAT121([MAT121])
+        PHYS111([PHYS111])
     end
     
     subgraph 3rd semester
-        MAT212
+        MAT212([MAT212])
         GEOF105
-        PHYS113 --- |or| STAT110 --- |or| KJEM110 
+        PHYS113([PHYS113]) --- |or| STAT110([STAT110]) --- |or| KJEM110([KJEM110]) 
         KJEM110 --- |or| PHYS113
     end
     
     subgraph 4th semester
         GEOF110
-        MAT131
-        EXPHIL-MNSEM
+        MAT131([MAT131])
+        EX([EXPHIL-MNSEM])
     end
     
     subgraph 5th semester
