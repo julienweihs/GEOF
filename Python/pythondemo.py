@@ -22,3 +22,5 @@ plt.plot(z, label='z')
 
 plt.legend()
 plt.show()
+
+#test
