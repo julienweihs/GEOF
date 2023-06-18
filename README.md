@@ -1,5 +1,6 @@
 ## GFI course structure
-%% with current responsible
+<with current responsible>
+
 
 
 ``` mermaid
